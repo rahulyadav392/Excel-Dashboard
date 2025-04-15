@@ -8,8 +8,13 @@ I build this Jobs Salary dashboard to showcase my following skills:
 - Formulas and Function
 - Charts
   
-The data is real life data of jobs posted in various job portals in 2023. 
+The dataset used in this project is real life 'Data Science' jobs posted on various job portals in 2023. This dataset contains 
+
+- Job Location
+- Skills
+- Salary
+- Job Title
 
 
 ### Dashboard File
-Final Dashboard file can be accessed: [JOB_Dashboard](https://github.com/rahulyadav392/Excel-Dashboard/blob/main/Salary%20Dashboard.xlsx)
+Final Dashboard file can be accessed through: [JOB_Dashboard](https://github.com/rahulyadav392/Excel-Dashboard/blob/main/Salary%20Dashboard.xlsx)
