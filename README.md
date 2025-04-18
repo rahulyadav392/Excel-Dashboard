@@ -23,4 +23,5 @@ Final Dashboard file can be accessed through: [JOB_Dashboard](https://github.com
 
 Following are the different dashboards that I build in this project:
 
-![avg salary Dashboard](https://github.com/user-attachments/assets/734ffdcf-2ba6-4b70-b44a-3009c043eeda)
+![avg salary Dashboard](https://github.com/user-attachments/assets/e73394f8-c180-4b47-9909-51be7e6ebc7d)
+
