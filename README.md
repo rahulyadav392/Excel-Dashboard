@@ -64,4 +64,16 @@ jobs[salary_year_avg]
 
 ![avg salary full dashboard](https://github.com/user-attachments/assets/8e0cc3b6-00ac-4116-9d4b-f56d72af984f)
 
+###Filtering Job Schedule Type
 
+```=FILTER(J2:J28,(NOT(ISNUMBER(SEARCH("AND",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))```
+
+**Background Table**
+
+
+![Filter Table](https://github.com/user-attachments/assets/d1a062e6-64a6-4317-ae7f-1bf008d9d2df)
+
+**Dashboard Implementation**
+
+
+![Filter Dashboard](https://github.com/user-attachments/assets/e7e71149-3c16-4a5b-b9cf-b67111b99dfb)
