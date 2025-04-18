@@ -1,7 +1,7 @@
 # Excel Dashboard
  ![Dashboard Recording](https://github.com/user-attachments/assets/8c96d603-d487-488b-8054-d0327a73e8f0)
 
-### Introduction
+## Introduction
 I build this Jobs Salary dashboard to showcase my following skills:
 
 - Data Validation
@@ -16,5 +16,11 @@ The dataset used in this project is real life 'Data Science' jobs posted on vari
 - Job Title
 
 
-### Dashboard File
+## Dashboard File
 Final Dashboard file can be accessed through: [JOB_Dashboard](https://github.com/rahulyadav392/Excel-Dashboard/blob/main/Salary%20Dashboard.xlsx)
+
+## Dashboard Build
+
+Following are the different dashboards that I build in this project:
+
+![avg salary Dashboard](https://github.com/user-attachments/assets/734ffdcf-2ba6-4b70-b44a-3009c043eeda)
