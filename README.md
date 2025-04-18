@@ -77,3 +77,31 @@ jobs[salary_year_avg]
 
 
 ![Filter Dashboard](https://github.com/user-attachments/assets/e7e71149-3c16-4a5b-b9cf-b67111b99dfb)
+
+## Data Validation
+
+Implementing the filtered list as a data validation rule under the Job Title, Country, and Employment Type fields ensures:
+
+- User input is limited to predefined and validated options
+- Inaccurate or inconsistent entries are prevented
+- The overall usability and reliability of the dashboard is improved
+
+![Data Validation](https://github.com/user-attachments/assets/93d6b2e7-d3a0-4187-a207-79462f1e22e9)
+
+## Conclusion
+
+This project highlights my ability to work with real-world datasets and build interactive, insight-driven dashboards in Excel using:
+
+-Data validation and cleaning
+-Use of advanced Excel formulas (e.g., MEDIAN, IF, FILTER, SEARCH)
+-Building dynamic, filterable dashboards
+-Visualizing trends using charts
+-Extracting actionable insights from complex data
+
+
+
+
+
+
+
+
