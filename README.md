@@ -55,3 +55,13 @@ jobs[salary_year_avg]
 - **Multiple Filters:** Value shown is passed through multiple filters- Job Title, Job Country, Job Type and filters out Blank Value
 - **Array Formula:** Utizlized Median() Function with Nested IF() to analyze data..
 - **Formula Purpose:** The formula retrieves and displays the median salary based on the selected job role, location, and employment category in the table below.
+
+**Background Table**
+
+![avg salary table](https://github.com/user-attachments/assets/76b6b189-3b3e-4954-bd8f-701a192551e1)
+
+**Dashboard Implementation**
+
+![avg salary full dashboard](https://github.com/user-attachments/assets/8e0cc3b6-00ac-4116-9d4b-f56d72af984f)
+
+
