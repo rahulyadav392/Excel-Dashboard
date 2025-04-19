@@ -53,7 +53,7 @@ jobs[salary_year_avg]
 )
 ```
 - **Multiple Filters:** Value shown is passed through multiple filters- Job Title, Job Country, Job Type and filters out Blank Value
-- **Array Formula:** Utizlized Median() Function with Nested IF() to analyze data..
+- **Array Formula:** Utilise Median() Function with Nested IF() to analyze data..
 - **Formula Purpose:** The formula retrieves and displays the median salary based on the selected job role, location, and employment category in the table below.
 
 **Background Table**
